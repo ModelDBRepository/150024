@@ -27,3 +27,10 @@ Fig 9F: DCN_cip_axis_main.hoc
 They each produce the appropriate data files and then exit.  Note that
 DCN_cip_axis_main.hoc takes just a few minutes so if you want a quick
 demo try that instead of the longer scripts.
+
+Changelog
+=========
+
+* 20220924: Update MOD files to avoid declaring variables and functions with the same name.
+  See https://github.com/neuronsimulator/nrn/pull/1992
+
