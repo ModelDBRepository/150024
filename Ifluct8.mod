@@ -12,7 +12,6 @@ NEURON {
 	POINT_PROCESS Ifluct8
 	NONSPECIFIC_CURRENT i
 	RANGE i0, i1, tau, std, deriv
-	RANGE new_seed
 } 
  
 
