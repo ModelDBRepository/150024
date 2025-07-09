@@ -1,4 +1,4 @@
-# Ovsepian SV, Steuber V, Le Berre M, O'Hara L, O'Leary VB, Dolly JO (2013)
+## Ovsepian SV, Steuber V, Le Berre M, O'Hara L, O'Leary VB, Dolly JO (2013)
 
 A defined heteromeric KV1 channel stabilizes the intrinsic pacemaking and regulates the output of deep cerebellar nuclear neurons to thalamic targets. *J Physiol* 591:1771-91
 
@@ -15,11 +15,9 @@ The following scripts replicate figures in Ovsepian et al. (2013)
 
 They each produce the appropriate data files and then exit. Note that DCN_cip_axis_main.hoc takes just a few minutes so if you want a quick demo try that instead of the longer scripts.
 
-Changelog
+## Changelog
 
 * 20220924: Update MOD files to avoid declaring variables and functions with the same name.  
   See [https://github.com/neuronsimulator/nrn/pull/1992](https://github.com/neuronsimulator/nrn/pull/1992)
 
----
-
-2025-07-09: Converted README to Markdown.
+* 20250709: Converted README to Markdown.
